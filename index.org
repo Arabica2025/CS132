@@ -7,8 +7,8 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 * Links
 + Course Manual
 + Course Repository
-+ [[https://piazza.com/class/mkbh9k57rak29u][Piazza]]
-+ [[https://www.gradescope.com/courses/1222810][Gradescope]]
++ [[https://piazza.com/bu/spring2026/cascs132][Piazza]]
++ [[https://www.gradescope.com/courses/1222810][Gradescope]] (6XXVDP)
 + Reading:
   + [[http://mcrovella.github.io/CS132-Geometric-Algorithms/landing-page.html][Linear Algebra, Geometry and Computation]]
   + [[https://textbooks.math.gatech.edu/ila/][Interactive Linear Algebra]]

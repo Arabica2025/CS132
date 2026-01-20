@@ -7,7 +7,8 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 * Links
 + [[file:manual/main.pdf][Course Manual]]
 + [[file:workbook/v001.pdf][Course Workbook]]
-+ Course Repository
++ [[https://github.com/nmmull/cs132-s26][Course Repository]]
++ [[https://nmmull.github.io/gallery132/index.html][Demo Gallery]]
 + [[https://piazza.com/bu/spring2026/cascs132][Piazza]]
 + [[https://www.gradescope.com/courses/1222810][Gradescope]] (6XXVDP)
 + Reading:

@@ -10,7 +10,7 @@ surrounded in a box.  Also make sure to cite your sources per the
 instructions in the course manual.
 
 The problems are taken from the workbook /Problems and Exercises/
-included in the course material based on version: [[file:~/Developer/Repositories/cs132/cs132-s26/workbook/v001.pdf][*v0.0.1*]]
+included in the course material based on version: [[https://nmmull.github.io/cs132-s26/workbook/v001.pdf][*v.0.0.1*]]
 
 These problems are based on problems that come from /Linear Algebra
 and it's Applications/ by David C. Lay, Steven R. Lay, and Judi

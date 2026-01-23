@@ -88,7 +88,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 * Course Staff
 + Instructor: [[https://nmmull.github.io][Nathan Mull]]
 + Teaching Fellow: Angelos Poulis
-+ Course Assistants: Sohan Atluri and Gor Matcakian
++ Course Assistants: Gor Matcakian and Helen Zhou
 
 /Do not contact course staff directly except in extenuating
 circumstances. If you have course-related questions/concerns, post on

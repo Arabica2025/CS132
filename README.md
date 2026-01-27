@@ -27,6 +27,6 @@ scikit-learn
 2. `uv run yourfile.py`: run your python file
 3. `uv add package-name`: install the package
 4. `uv remove package-name`: remove the package
-5. `uv sync`: install all packages in my virtual environment
+5. `uv sync`: install all packages in my virtual environment (if you run any python file using `uv run`, it will automatically execute `uv sync`)
     - `pyproject.toml`: package receipt (list)
     - `uv.lock`: package receipt for the machine

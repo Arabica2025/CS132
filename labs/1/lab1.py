@@ -7,7 +7,7 @@ import time
 def is_consistent(a):
     a = sp.linalg.lu(a)[2]
     row = a[~np.all(a == 0, axis=1)][-1]
-    return np.allclose(row, 0) and not np.isclose(row[-1], 0)
+    return np.allclose(row[:-1], 0) and not np.isclose(row[-1], 0)
 
 def solve(aug):
     pass # TODO

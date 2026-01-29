@@ -6,7 +6,7 @@ applications in computer science.  It's based heavily on (and depends
 on the material for) the version of the course taught by [[https://www.cs.bu.edu/fac/crovella/][Mark Crovella]].
 * Links
 + [[file:manual/main.pdf][Course Manual]]
-+ [[file:workbook/v001.pdf][Course Workbook]]
++ [[file:workbook/v002.pdf][Course Workbook]]
 + [[https://github.com/nmmull/cs132-s26][Course Repository]]
 + [[https://nmmull.github.io/gallery132/index.html][Demo Gallery]]
 + [[https://piazza.com/bu/spring2026/cascs132][Piazza]]

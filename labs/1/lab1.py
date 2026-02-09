@@ -7,7 +7,11 @@ import time
 def is_consistent(a):
     a = sp.linalg.lu(a)[2]
     row = a[~np.all(a == 0, axis=1)][-1]
+<<<<<<< HEAD
     return not np.allclose(row[:-1], 0) and not np.isclose(row[-1], 0)
+=======
+    return not (np.allclose(row[:-1], 0) and not np.isclose(row[-1], 0))
+>>>>>>> upstream
 
 def solve(aug):
     #Using NumPy slicing, write a wrapper for this function called solve which takes as an argument an augmented

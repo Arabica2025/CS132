@@ -32,7 +32,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 | 2/3  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L05Axb.html][Matrix-Vector Equations]]                |                        |
 | 2/5  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L06LinearIndependence.html][Linear Independence]]                    | [[file:assignments/03/assign03.org][A3]] out, A2 due         |
 |------+----------------------------------------+------------------------|
-| 2/9  | Lab 2: Leslie Matrices                 |                        |
+| 2/9  | [[file:labs/2/lab2.pdf][Lab 2: Leslie Matrices]] ([[file:labs/2/lab2.py][lab2.py]])       |                        |
 | 2/10 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L07LinearTransformations.html][Linear Transformations]]                 |                        |
 | 2/12 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L08MatrixofLinearTranformation.html][Matrix Transformations]] (Workshop)      | A4 out, A3 due         |
 |------+----------------------------------------+------------------------|

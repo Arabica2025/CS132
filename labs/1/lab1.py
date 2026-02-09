@@ -7,10 +7,21 @@ import time
 def is_consistent(a):
     a = sp.linalg.lu(a)[2]
     row = a[~np.all(a == 0, axis=1)][-1]
-    return np.allclose(row[:-1], 0) and not np.isclose(row[-1], 0)
+    return not np.allclose(row[:-1], 0) and not np.isclose(row[-1], 0)
 
 def solve(aug):
-    pass # TODO
+    #Using NumPy slicing, write a wrapper for this function called solve which takes as an argument an augmented
+    #matrix and calls scipy.linalg.solve on the appropriate inputs.
+    
+    ## scipy.linalg.solve: only computes coefficient matrix
+    ## solving augmented matrix:
+    ## separate the constants from the coefficient matrix
+    coef = aug[:, :-1] # coefficient matrix
+    const = aug[:, -1] # right-hand side constants
+    try:
+        return sp.linalg.solve(coef,const)
+    except Exception: # if any errors occur (e.g. inconsistent system), return None.
+        return None
 
 def best_fit_cubic(x_axis, y_axis):
     coeff = np.linalg.lstsq(np.vstack(pow(x_axis, 3)), y_axis, rcond=None)[0][0]
@@ -59,6 +70,7 @@ def benchmark(n, step_size=10, low=-100, hi=100):
 
     coeff, y_axis_cubic = best_fit_cubic(x_axis, y_axis_getrf)
     print(f'getrf running is approximately an^3 where a = {coeff}')
+    print(f'the number of FLOPs per second performed by my CPU: {(2/3)*coeff} FLOPs per second')
 
     data_con, = plt.plot(x_axis, y_axis_con, 'ro', label='is_consistent')
     data_solve, = plt.plot(x_axis, y_axis_solve, 'g^', label='solve')
@@ -69,4 +81,4 @@ def benchmark(n, step_size=10, low=-100, hi=100):
     plt.legend(handles=[data_con, data_solve, data_getrf, cubic])
     plt.show()
 
-benchmark(120)
+benchmark(70)

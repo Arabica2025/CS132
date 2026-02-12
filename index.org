@@ -34,7 +34,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+----------------------------------------+------------------------|
 | 2/9  | [[file:labs/2/lab2.pdf][Lab 2: Leslie Matrices]] ([[file:labs/2/lab2.py][lab2.py]])       |                        |
 | 2/10 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L07LinearTransformations.html][Linear Transformations]]                 |                        |
-| 2/12 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L08MatrixofLinearTranformation.html][Matrix Transformations]] (Workshop)      | A4 out, A3 due         |
+| 2/12 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L08MatrixofLinearTranformation.html][Matrix Transformations]] (Workshop)      | [[file:assignments/04/assign04.org][A4]] out, A3 due         |
 |------+----------------------------------------+------------------------|
 | 2/16 | *No Lab*                               | Presidents’ Day        |
 | 2/17 | Quiz 2                                 | *Substitute Monday*    |

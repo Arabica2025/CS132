@@ -40,11 +40,11 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 | 2/17 | Quiz 2                                    | *Substitute Monday*    |
 | 2/19 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L09MatrixOperations.html][Matrix Algebra]]                            | [[file:assignments/05/assign05.org][A5]] out, A4 due         |
 |------+-------------------------------------------+------------------------|
-| 2/23 | [[file:labs/3/main.pdf][Lab 3: Numerical Linear Algebra]] ([[file:labs/3/lab3.py][lab3.py]]) |                        |
+| 2/23 | *No Lab*                                  | Campus Closed          |
 | 2/24 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L10MatrixInverse.html][Matrix Inverse]]                            |                        |
 | 2/26 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L12MatrixFactorizations.html][LU Factorization]] (Workshop)               | A5 due                 |
 |------+-------------------------------------------+------------------------|
-| 3/2  | Midterm Review                            |                        |
+| 3/2  | [[file:labs/3/main.pdf][Lab 3: Numerical Linear Algebra]] ([[file:labs/3/lab3.py][lab3.py]]) |                        |
 | 3/3  | Algebraic Graph Theory                    |                        |
 | 3/5  | *Midterm Exam*                            | A6 out                 |
 |------+-------------------------------------------+------------------------|

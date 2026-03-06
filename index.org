@@ -46,7 +46,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+-------------------------------------------+---------------------------------------|
 | 3/2  | [[file:labs/3/main.pdf][Lab 3: Numerical Linear Algebra]] ([[file:labs/3/lab3.py][lab3.py]]) |                                       |
 | 3/3  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L12MatrixFactorizations.html][LU Factorization]] (Workshop)               |                                       |
-| 3/5  | *Midterm Exam*                            | A6 out                                |
+| 3/5  | *Midterm Exam*                            | [[file:assignments/06/assign06.org][A6]] out                                |
 |------+-------------------------------------------+---------------------------------------|
 | 3/9  | *No Lab*                                  | Spring recess                         |
 | 3/10 | *No Lecture*                              | Spring recess                         |

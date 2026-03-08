@@ -20,8 +20,8 @@ assignment are: *2.2*, *2.3*, *2.5*
 
 *Basic Problems:* 6.19, 6.20, 6.23, 6.24, 6.30, 7.2, 7.3
 
-*True/False:* 6.40, 6.42, 6.43, 6.48, 7.5, 7.6, 7.7
+*True/False:* 6.40, 6.42, 6.43, 6.48, 7.6, 7.7
 
-*More Difficult Problems:* 6.65, 6.67, 6.73, 7.9, 7.10
+*More Difficult Problems:* 6.65, 6.67, 6.73, 7.10
 
 *Challenge Problems (Optional):* 6.76, 6.79

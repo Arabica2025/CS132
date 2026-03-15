@@ -3,7 +3,32 @@ import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 
-def benchmark_random(num_exp, step_size, num_eqs, process, low=-100, hi=100):
+
+
+def solve(a: np.ndarray, bs: np.ndarray)-> np.ndarray:
+    # uses numpy.linalg.solve to solve each matrix equation
+    return np.linalg.solve(a,bs)
+
+def lu_solve(a: np.ndarray, bs: [np.ndarray])-> np.ndarray:
+    # uses the function scipy.linalg.lu_factor to LU factor a, and then
+    # uses scipy.linalg.lu_solve to solve each matrix equation
+    # *this should only factor once
+    # 1. LU Factorization to create two different matrices of Lower and Upper 
+    if lo is None or hi is None: 
+        lo, hi = sp.linalg.lu_factor(a)
+    return sp.linalg.lu_solve((lo, hi), bs)
+
+def inv_solve(a: np.ndarray,bs: [np.ndarray])-> np.ndarray:
+    # uses numpy.linalg.inv to invert a, and then uses
+    # matrix-vector multiplication(@) to solve each matrix equation
+    # *this should only invert once
+    if inv is None:
+        inv = np.linalg.inv(a)
+    return inv @ bs
+
+
+
+def benchmark_random(num_exp: int, step_size: int, num_eqs: int, process: np.ndarray, low=-100, hi=100):
     """Benchmark a process using random matrix equations.
 
     Parameters

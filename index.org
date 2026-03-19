@@ -54,7 +54,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+-------------------------------------------+---------------------------------------|
 | 3/16 | Quiz 3                                    |                                       |
 | 3/17 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L11MarkovChains.html][Markov Chains]]                             |                                       |
-| 3/19 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L13ComputerGraphics.html][Computer Graphics]]                         | A7 out, A6 due                        |
+| 3/19 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L13ComputerGraphics.html][Computer Graphics]]                         | [[file:assignments/07/assign07.org][A7]] out, A6 due                        |
 |------+-------------------------------------------+---------------------------------------|
 | 3/23 | Lab 4: Graphics                           |                                       |
 | 3/24 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L14Subspaces.html][Subspaces]]                                 |                                       |

@@ -156,8 +156,8 @@ def benchmark_banded(num_exp, step_size, num_eqs, process, low=-100, hi=100):
         n = step_size * i # the size of each experiment to run; i-th experiment should use a matrix of size step_size * i(current iteration)
         a = banded_matrix(n) # create banded_matrix of size n
         bs = (hi - low) * rng.random((a.shape[0], num_eqs)) + low # bs is random vector used for calculation
-        # print("a.shape:", a.shape)
-        # print("bs.shape:", bs.shape)
+        print("a.shape:", a.shape)
+        print("bs.shape:", bs.shape)
         
         start = time.time()# set timer only for the process
         process(a,bs) 
@@ -205,8 +205,8 @@ if __name__ == "__main__":
     # print("-----------benchmark_banded unit test------------")
     # print("benchmark_banded solve:",benchmark_banded(10,5,5,solve))
     # print("benchmark_baned lu_solve:", benchmark_banded(10,5,5,lu_solve))
-    # print("benchmark_banded inv_solve:", benchmark_banded(10,5,5,inv_solve))
+    print("benchmark_banded inv_solve:", benchmark_banded(10,5,5,inv_solve))
     
     #plotting(100,10,100,solve, lu_solve, benchmark_random)
     #plotting(250, 10, 100, inv_solve, lu_solve, benchmark_random)
-    plotting(8, 1000, 100, inv_solve, lu_solve, benchmark_banded)
+    #plotting(8, 1000, 100, inv_solve, lu_solve, benchmark_banded)

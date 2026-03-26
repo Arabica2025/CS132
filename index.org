@@ -58,7 +58,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 3/23 | [[file:labs/4/lab4.pdf][Lab 4: Graphics]] ([[file:labs/4/lab4.zip][lab4.zip]])                                      |                                       |
 | 3/24 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L14Subspaces.html][Subspaces]]                                                       |                                       |
-| 3/26 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L15DimensionRank.html][Dimension and Rank]] (Workshop)                                   | A8 out, A7 due                        |
+| 3/26 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L15DimensionRank.html][Dimension and Rank]] (Workshop)                                   | [[file:assignments/08/assign08.org][A8]] out, A7 due                        |
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 3/30 | Quiz 4                                                          |                                       |
 | 3/31 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L16Eigenvectors.html][Eigenvalues and Eigenvectors]]                                    |                                       |

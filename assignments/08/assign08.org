@@ -1,0 +1,27 @@
+#+title: Assignment 8
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../style.css" />
+#+OPTIONS: html-style:nil H:2 toc:nil todo:nil author:nil date:nil
+#+HTML_LINK_HOME: ../../index.html
+The following assignment is due *Thursday March 2 by 8:00 PM*.
+Your solutions should be submitted via Gradescope as a single pdf.
+They must be exceptionally neat (or typed) and the final answer in
+your solution to each problem must be abundantly clear, e.g.,
+surrounded in a box.  Also make sure to cite your sources per the
+instructions in the course manual.
+
+The problems are taken from the workbook /Problems and Exercises/
+included in the course material based on version: [[https://nmmull.github.io/cs132-s26/workbook/v004.pdf][*v0.0.4*]]
+
+These problems are based on problems that come from /Linear Algebra
+and it's Applications/ by David C. Lay, Steven R. Lay, and Judi
+J. McDonald.  As a reminder, we recommend this textbook as a source
+for supplementary exercises.  The relevant sections for this
+assignment are: *4.4*, *4.5*, *4.6*, *4.7*
+
+*Basic Problems:* 9.1, 9.2, 9.3, 9.8, 9.11, 9.12, 9.15, 9.17
+
+*True/False:* 9.24, 9.25, 9.28, 9.31, 9.32, 9.33
+
+*More Difficult Problems:* 9.36, 9.39, 9.41, 9.42
+
+*Challenge Problems (Optional):* 9.43, 9.44

@@ -130,12 +130,6 @@ lc = LineCollection(
     linewidth=1,
     colors=(['r', 'g', 'b'] + (len(base_shape) - 3) * ['C0']))
 
-# print(lc is None)
-
-
-# assert 0
-
-
 s = axes['main'].add_collection(lc)
 
 def update_curr_shape():

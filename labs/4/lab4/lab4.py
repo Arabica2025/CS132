@@ -16,9 +16,7 @@ test_shape = [((0, 1, 2), (1, 2, 3)),
               ((5, 5, 5), (6, 6, 6)),
               ((-1, -2, -3), (2, 0, 0))]
 
-print(len(test_shape))
-
-def shape_to_matrix(shape: list[tuple])-> np.ndarray:
+def shape_to_matrix(shape):
     """converts a wireframe object to a matrix of points in
     homogeneous coordinates
 
@@ -39,10 +37,6 @@ def shape_to_matrix(shape: list[tuple])-> np.ndarray:
              [ 1.,  1.,  1.,  1.,  1.,  1.]])
 
     """
-    N = len(shape)
-    shpe_matrix = np.zeros(4, 2 * N)
-    
-    
     return None # TODO
 
 def transform_matrix(x_tr, y_tr, z_tr, roll, pitch, yaw):

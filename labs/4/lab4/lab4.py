@@ -37,8 +37,15 @@ def shape_to_matrix(shape):
              [ 1.,  1.,  1.,  1.,  1.,  1.]])
 
     """
-    return None # TODO
-
+    matrix = np.ones((4, 2 * len(shape)))
+    for i in range(len(shape)):
+        for j in range(len(shape[i])):
+          matrix[:3, 2*i + j] = shape[i][j]
+    
+    
+    return matrix
+  
+print(shape_to_matrix(test_shape))
 def transform_matrix(x_tr, y_tr, z_tr, roll, pitch, yaw):
     """the matrix applied to a shape in order to transformation it by
     translation and rotation

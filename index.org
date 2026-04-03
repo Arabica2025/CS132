@@ -62,7 +62,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 3/30 | Quiz 4                                                          |                                       |
 | 3/31 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L16Eigenvectors.html][Eigenvalues and Eigenvectors]]                                    |                                       |
-| 4/2  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L17CharacteristicEqn.html][The Characteristic Equation]]                                     | A9 out, A8 due                        |
+| 4/2  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L17CharacteristicEqn.html][The Characteristic Equation]]                                     | [[file:assignments/09/assign09.org][A9]] out, A8 due                        |
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 4/6  | Lab 5: PageRank                                                 |                                       |
 | 4/7  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L18Diagonalization.html][Diagonalization]]                                                 |                                       |

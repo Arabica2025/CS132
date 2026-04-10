@@ -66,7 +66,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 4/6  | [[file:labs/5/main.pdf][Lab 5: PageRank]] ([[https://drive.google.com/file/d/1an81bdr86R209AdGyKLpyGS3htFpWas1/view?usp=share_link][lab5.zip]])                                      |                                       |
 | 4/7  | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L18Diagonalization.html][Diagonalization]]                                                 |                                       |
-| 4/9  | **Midterm 2** @@html:<s>@@[[http://mcrovella.github.io/CS132-Geometric-Algorithms/L20Orthogonality.html][Orthogonality]] (Workshop)@@html:</s>@@ | A10 out, A9 due                       |
+| 4/9  | **Midterm 2** @@html:<s>@@[[http://mcrovella.github.io/CS132-Geometric-Algorithms/L20Orthogonality.html][Orthogonality]] (Workshop)@@html:</s>@@ | [[file:assignments/10/assign10.org][A10]] out, A9 due                       |
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 4/13 | Quiz 5                                                          |                                       |
 | 4/14 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L21OrthogonalSets.html][Orthogonal Projection]]                                           |                                       |
